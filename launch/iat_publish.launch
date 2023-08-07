@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="voice_test" type="iat_publish" name="iat_publish" output="screen"/>
+</launch>
